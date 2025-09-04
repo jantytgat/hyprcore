@@ -1,0 +1,9 @@
+[Unit]
+Description=mkao notifications tester
+
+[Service]
+Type=oneshot
+ExecStart=/var/hyprcore/scripts/mako/reload.sh
+
+[Install]
+WantedBy=graphical-session.target

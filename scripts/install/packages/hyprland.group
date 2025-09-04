@@ -1,0 +1,7 @@
+# notifications
+libnotify
+mako
+
+# uwsm
+libnewt
+uwsm
