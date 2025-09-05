@@ -1,0 +1,9 @@
+# GROUP Networking
+avahi
+impala
+inetutils
+iwd
+net-tools
+whois
+wireguard-tools
+# END GROUP

@@ -1,7 +1,20 @@
+# GROUP Hyprland tools and utilities
+
+# Hyprland
+hypridle
+hyprland
+hyprland-qtutils
+hyprlock
+hyprpicker
+hyprshot
+hyprsunset
+
+
 # notifications
 libnotify
 mako
 
 # uwsm
-libnewt
-uwsm
+# libnewt
+# uwsm
+# END GROUP

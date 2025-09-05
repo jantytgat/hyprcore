@@ -1,0 +1,4 @@
+# GROUP Virtual File Systems
+gvfs-nfs
+gvfs-smb
+# END GROUP

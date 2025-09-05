@@ -1,0 +1,9 @@
+[Unit]
+Description=mako notifications tester
+
+[Service]
+Type=oneshot
+ExecStart=/.local/share/hyprcore/scripts/config/systemd/mako/reload.sh
+
+[Install]
+WantedBy=graphical-session.target

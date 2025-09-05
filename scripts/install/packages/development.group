@@ -1,0 +1,19 @@
+# GROUP Development
+
+# Containerization
+docker
+docker-buildx
+docker-compose
+lazydocker
+
+# Code editing
+nvim
+
+# Processors
+jq
+
+# Source Code Management
+git
+github-cli
+lazygit
+# END GROUP

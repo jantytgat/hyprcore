@@ -1,5 +1,28 @@
+# GROUP Utilities
+
+# Image processing
+imagemagick
+
+# Info
 btop
+dust
 fastfetch
+htop
+iftop
+man
+
+# Search & File utilities
+bat
+eza
+fd
 fzf
 less
-man
+plocate
+ripgrep
+
+# Screenshots
+satty
+
+# Time
+# tzupdate
+# END GROUP

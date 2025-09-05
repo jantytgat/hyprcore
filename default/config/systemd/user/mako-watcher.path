@@ -1,5 +1,5 @@
 [Path]
-PathModified=%h/.config/mako/config
+PathModified=%h/.config/mako
 
 [Install]
 WantedBy=graphical-session.target
