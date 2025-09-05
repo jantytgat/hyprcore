@@ -1,5 +1,7 @@
 # GROUP Hyprland tools and utilities
 
+
+
 # Hyprland
 hypridle
 hyprland
@@ -9,12 +11,27 @@ hyprpicker
 hyprshot
 hyprsunset
 
+# Input
+fcitx5
+fcitx5-gtk
+fcitx5-qt
 
-# notifications
+# Notifications
 libnotify
 mako
 
-# uwsm
-# libnewt
-# uwsm
+# Sway
+swaybg
+swayosd
+
+# Uwsm
+libnewt
+uwsm
+
+# Wayland
+qt5-wayland
+waybar
+wl-clip-persist
+wl-clipboard
+# wl-screenrec
 # END GROUP

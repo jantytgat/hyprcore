@@ -11,6 +11,9 @@ htop
 iftop
 man
 
+# Power
+power-profiles-daemon
+
 # Search & File utilities
 bat
 eza
@@ -22,6 +25,9 @@ ripgrep
 
 # Screenshots
 satty
+
+# Terminal
+alacritty
 
 # Time
 # tzupdate

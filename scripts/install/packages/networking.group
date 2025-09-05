@@ -1,9 +1,20 @@
 # GROUP Networking
-avahi
-impala
+
+# Bluetooth
+blueberry
+
 inetutils
-iwd
 net-tools
 whois
+
+# Service Discovery
+avahi
+
+# VPN
 wireguard-tools
+
+# Wireless
+impala
+iwd
+
 # END GROUP

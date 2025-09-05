@@ -4,5 +4,5 @@
 # rm -rf ~/.local/state/hyprcore
 rm -rf ~/.local ~/.config
 
-sudo pacman -R --noconfirm chromium btop fastfetch hyprland uwsm libnewt hypridle hyprlock hyprsunset hyprland-qtutils hyprpicker hyprshot
+#sudo pacman -R --noconfirm chromium btop fastfetch hyprland hypridle hyprlock hyprsunset hyprland-qtutils hyprpicker hyprshot
 clear

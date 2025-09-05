@@ -2,4 +2,12 @@
 
 # Fonts
 fontconfig
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+ttf-cascadia-mono-nerd
+# ttf-ia-writer
+ttf-jetbrains-mono-nerd
+woff2-font-awesome
 # END GROUP
