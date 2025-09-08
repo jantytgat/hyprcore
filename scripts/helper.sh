@@ -101,6 +101,15 @@ print_title() {
     "$title"
 }
 
+run_makepkg() {
+    package=$1
+    title=$(echo -e "\t\tRunning makepkg for $package")
+    gum spin --align right --spinner dot --title "$title" --show-error -- makepkg -si --needed --noconfirm -D $HYPRCORE_CACHE/$package
+    gum style \
+        --foreground "#00FF00" \
+        "$title"
+}
+
 systemd_disable_service() {
     title=$(echo -e "\t\t$1")
     service=$2

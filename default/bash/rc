@@ -5,3 +5,5 @@ source ~/.local/share/hyprcore/default/bash/prompt
 source ~/.local/share/hyprcore/default/bash/init
 source ~/.local/share/hyprcore/default/bash/envs
 [[ $- == *i* ]] && bind -f ~/.local/share/hyprcore/default/bash/inputrc
+
+source ~/.local/share/hyprcore/scripts/env.sh

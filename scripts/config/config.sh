@@ -8,9 +8,12 @@ mkdir -p ~/.config
 cp -R $HYPRCORE_CONFIG/* ~/.config
 cp $HYPRCORE_SHARE_PATH/default/bashrc ~/.bashrc
 
+source $HYPRCORE_SCRIPTS_CONFIG/gpg/gpg.sh
 
 source $HYPRCORE_SCRIPTS_CONFIG/hardware/network.sh
 source $HYPRCORE_SCRIPTS_CONFIG/hardware/ignore-power-button.sh
+
+source $HYPRCORE_SCRIPTS_CONFIG/makepkg/makepkg-multicore.sh
 
 source $HYPRCORE_SCRIPTS_CONFIG/systemd/services.sh
 
