@@ -11,6 +11,9 @@ hyprpicker
 hyprshot
 hyprsunset
 
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
+
 # Input
 fcitx5
 fcitx5-gtk

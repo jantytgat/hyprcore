@@ -3,7 +3,7 @@ Description=mako notifications tester
 
 [Service]
 Type=oneshot
-ExecStart=/.local/share/hyprcore/scripts/config/systemd/mako/reload.sh
+ExecStart=%h/.local/share/hyprcore/scripts/bin/hyprcore-reload-notifications
 
 [Install]
 WantedBy=graphical-session.target

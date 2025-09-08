@@ -1,5 +1,5 @@
 export HYPRCORE_PATH=$HOME/.local/share/hyprcore
-export PATH=$HYPRCORE_PATH/bin/:$PATH
+export PATH=$HYPRCORE_PATH/scripts/bin/:$PATH
 # export TERMINAL=alacritty
 export TERMINAL=kitty
 

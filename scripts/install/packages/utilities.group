@@ -22,6 +22,7 @@ fzf
 less
 plocate
 ripgrep
+zoxide
 
 # Screenshots
 satty

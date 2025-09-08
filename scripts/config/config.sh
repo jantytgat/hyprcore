@@ -6,6 +6,7 @@ gum style \
 
 mkdir -p ~/.config
 cp -R $HYPRCORE_CONFIG/* ~/.config
+cp $HYPRCORE_SHARE_PATH/default/bashrc ~/.bashrc
 
 
 source $HYPRCORE_SCRIPTS_CONFIG/hardware/network.sh

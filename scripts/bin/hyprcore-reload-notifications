@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+makoctl reload
+notify-send -a "Hyprcore System" -t 5000 "System notification" "mako notifications configuration reloaded sucessfully"

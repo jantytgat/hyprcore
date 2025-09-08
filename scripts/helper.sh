@@ -80,6 +80,14 @@ is_package_installed() {
     return
 }
 
+mark_as_executable() {
+    title=$(echo -e "\t\tMark as executable: $1")
+    chmod +x $1
+    gum style \
+        --foreground "#00FF00" \
+        "$title"
+}
+
 print_title() {
     title="HyprCore Installation"
     gum style \
